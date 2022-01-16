@@ -1,10 +1,10 @@
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeScreen.webp)
 
 ## Descrição
-FlySafe é um fork de Autopilot[^1] e foi desenvolvido exclusivamente para executar o backup de EVE Online.
+FlySafe é um fork de Autopilot[^1] e foi desenvolvido exclusivamente para executar o backup de EVE Online[^2].
 
 ## Recursos
-- Backup EVE Online[^2]
+- Backup EVE Online
 - Ajuda
 - Updates
 - Sobre
