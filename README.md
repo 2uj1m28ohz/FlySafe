@@ -12,7 +12,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido exclusivamente
 ## Requisitos
 - [Windows](https://www.microsoft.com/windows) 10+
 - [Terminal](https://www.github.com/microsoft/terminal) *opcional*
-- [PowerShell](https://www.github.com/powershell/powershell) 7.0+
+- [PowerShell](https://www.github.com/powershell/powershell) 7.0.0+
 - [7-Zip](https://www.7-zip.org) 19.00+
 
 ## Como Executar
