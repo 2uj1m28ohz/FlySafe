@@ -16,12 +16,13 @@ FlySafe é um terminal app escrito em shell script e desenvolvido exclusivamente
 - [7-Zip](https://www.7-zip.org) 19.00+
 
 ## Como Executar
-1. Abra o PowerShell
-2. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
+1. Descomprima o pacote .7z
+2. Abra o PowerShell
+3. [Desbloqueie](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.utility/unblock-file) o script
 ```
 Get-Item D:\FlySafe-22.1.1.ps1 | Unblock-File
 ```
-3. Execute o script
+4. Execute o script
 ```
 D:\FlySafe-22.1.1.ps1
 ```
