@@ -29,9 +29,9 @@ C:\Users\[Usuário]\Downloads\FlySafe-[Versão].ps1
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeTerminal.png)
 >NOTA: *Certifique-se de informar o local e nome corretos do script*
 
-## Histórico e Compatibilidade
+## Histórico e Requisitos
 |Versão|Publicação|Suporte|Windows|PowerShell|7-Zip|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---|:---:|:---:|:---:|:---:|:---:|
 |22.40.1|✅|✅|10|7.2.0|21.07|
 |22.30.1|✅|❌|10|7.0.0|19.00|
 |22.20.1|✅|❌|10|7.0.0|19.00|
