@@ -1,7 +1,7 @@
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeScreen.png)
 
 ## Descrição
-FlySafe é um terminal app escrito em shell script e desenvolvido exclusivamente para executar o backup de EVE Online[^1].
+FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
 
 ## Recursos
 - Backup EVE Online
