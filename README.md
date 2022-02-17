@@ -29,4 +29,6 @@ C:\Users\[Usuário]\Downloads\FlySafe-[Versão].ps1
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeTerminal.png)
 >NOTA: *Certifique-se de informar o local e nome corretos do script*
 
+:smiling_face_with_three_hearts: Imagem por [Austin Schmid](https://unsplash.com/photos/r7zjJ63kAPU)
+
 [^1]: [EVE Online](https://www.eveonline.com)
