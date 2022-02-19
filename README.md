@@ -1,10 +1,10 @@
-![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeScreen.png)
+![](https://github.com/2uj1m28ohz/flysafe/blob/main/Screenshot.png)
 
 ## Descrição
 FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
 
 ## Recursos
-- Backup EVE Online
+- Criar Backup
 - Ajuda
 - Updates
 - Sobre
@@ -26,9 +26,17 @@ Get-Item C:\Users\[Usuário]\Downloads\FlySafe-[Versão].ps1 | Unblock-File
 ```
 C:\Users\[Usuário]\Downloads\FlySafe-[Versão].ps1
 ```
-![](https://github.com/2uj1m28ohz/flysafe/blob/main/FlySafeTerminal.png)
->NOTA: *Certifique-se de informar o local e nome corretos do script*
+>NOTA: Certifique-se de informar o local correto do script.
 
-:smiling_face_with_three_hearts: Imagem por [Austin Schmid](https://unsplash.com/photos/r7zjJ63kAPU)
+## Pacote
+|Item|Arquivo|Status|
+|:---|:---|:---:|
+|Software|FlySafe-22.50.1.ps1|:white_check_mark:|
+|Licença|License.html|:white_check_mark:|
+|Readme|Readme.html|:white_check_mark:|
+>NOTA: Você pode verificar a integridade do arquivo comparando seu hash com a código disponível na página de download da versão.
 
-[^1]: [EVE Online](https://www.eveonline.com)
+## Atribuição
+:sunrise_over_mountains: Imagem de fundo por [@adrienolichon](https://unsplash.com/photos/RCAhiGJsUUE)
+
+[^1]:[EVE Online](https://www.eveonline.com)
