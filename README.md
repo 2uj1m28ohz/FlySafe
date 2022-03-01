@@ -1,4 +1,4 @@
-![](https://github.com/2uj1m28ohz/flysafe/blob/main/Screenshot.png)
+![](https://github.com/2uj1m28ohz/flysafe/blob/main/Screenshot-22.60.1.png)
 
 ## Descrição
 FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
