@@ -12,7 +12,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido para executar 
 - Sobre
 
 ## Requisitos
-- [Windows](https://www.microsoft.com/windows) 10 Build 10586
+- [Windows](https://www.microsoft.com/windows) 10 Build 14393
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
@@ -32,6 +32,7 @@ Get-Item FlySafe.ps1 | Unblock-File
 ```
 .\FlySafe.ps1
 ```
+6. Siga para o menu **Suporte** e utilize a opção **Instalar Software**
 >NOTA: Certifique-se de informar o local correto do script.
 
 ## Pacote
