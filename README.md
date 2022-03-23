@@ -1,7 +1,7 @@
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/Screenshot.png)
 
 ## Descrição
-FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
+FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online.
 
 ## Recursos
 - Criar Backup
@@ -17,7 +17,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido para executar 
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
 
-## Como Executar
+## Como Instalar
 1. Descomprima o pacote .7z
 2. Abra o PowerShell
 3. [Habilite](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy) a execução de scripts para o usuário atual
@@ -44,6 +44,4 @@ Get-Item FlySafe.ps1 | Unblock-File
 >NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
 
 ## Atribuição
-:sunrise_over_mountains: Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
-
-[^1]:[EVE Online](https://www.eveonline.com)
+Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
