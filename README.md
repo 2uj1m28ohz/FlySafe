@@ -1,7 +1,7 @@
 ![](https://github.com/2uj1m28ohz/flysafe/blob/main/Screenshot.png)
 
 ## Descrição
-FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online.
+FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
 
 ## Recursos
 - Criar Backup
@@ -33,7 +33,7 @@ Get-Item FlySafe.ps1 | Unblock-File
 .\FlySafe.ps1
 ```
 6. Siga para o menu **Suporte** e utilize a opção **Instalar Software**
->NOTA: Certifique-se de informar o local correto do script.
+> NOTA: Certifique-se de informar o local correto do script.
 
 ## Pacote
 |Item|Arquivo|Status|
@@ -41,7 +41,14 @@ Get-Item FlySafe.ps1 | Unblock-File
 |Software|FlySafe.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
 |Readme|Readme.html|:white_check_mark:|
->NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
+> NOTA: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
+
+## Documentação
+- [Suporte](https://github.com/2uj1m28ohz/flysafe/blob/main/SUPPORT.md)
+- [Licença](https://github.com/2uj1m28ohz/flysafe/blob/main/LICENSE)
+- [Código de Conduta](https://github.com/2uj1m28ohz/flysafe/blob/main/CODE_OF_CONDUCT.md)
 
 ## Atribuição
 Wallpaper por [Daniel Leone](https://unsplash.com/photos/g30P1zcOzXo)
+
+[^1]:[EVE Online](https://www.eveonline.com)
