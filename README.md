@@ -12,7 +12,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido para executar 
 - Sobre
 
 ## :desktop_computer: Requisitos
-- [Windows](https://www.microsoft.com/windows) 10 Build 15063
+- [Windows](https://www.microsoft.com/windows) 10 Build 16299
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
@@ -22,7 +22,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido para executar 
 |:---|:---|:---:|
 |Software|FlySafe.ps1|:white_check_mark:|
 |Licença|License.html|:white_check_mark:|
-|Readme|Readme.html|:white_check_mark:|
+|Leia-me|Readme.html|:white_check_mark:|
 > :shield: Você pode verificar a integridade do pacote comparando seu hash com a código disponível na página de download da versão.
 
 ## :arrow_down: Como Instalar
