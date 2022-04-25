@@ -3,7 +3,7 @@
 ## :pencil2: Descrição
 FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
 
-> :warning: O desenvolvimento de FlySafe foi encerrado em 30/04/2022.
+> :warning: O desenvolvimento de FlySafe será encerrado em 30/04/2022.
 
 > :warning: O suporte à FlySafe será encerrado em 30/05/2022.
 
