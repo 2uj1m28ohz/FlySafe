@@ -3,27 +3,32 @@
 ## :pencil2: Descrição
 FlySafe é um terminal app escrito em shell script e desenvolvido para executar o backup de EVE Online[^1].
 
-> :warning: O desenvolvimento de FlySafe será encerrado em 30/04/2022.
+> :warning: O desenvolvimento de FlySafe foi encerrado em 30/04/2022.
 
 > :warning: O suporte à FlySafe será encerrado em 30/05/2022.
 
+> :school_satchel: Execute o Assistente de Migração para manter o suporte.
+
 > :notebook_with_decorative_cover: Leia mais em [Política de Suporte](https://github.com/2uj1m28ohz/flysafe/blob/main/SUPPORT.md).
 
-## :sparkles: Recursos
+> :watch: Este repositório permanecerá ativo até 30/06/2022.
+
+## :sparkles: Recursos de Software
 - Criar Backup
 - Restaurar Backup
+- Assistente de Migração
 - Configurações
 - Suporte
 - Ajuda
 - Sobre
 
-## :desktop_computer: Requisitos
+## :desktop_computer: Requisitos de Sistema
 - [Windows](https://www.microsoft.com/windows) 10 Build 16299
 - [Terminal](https://www.github.com/microsoft/terminal) _recomendado_
 - [PowerShell](https://www.github.com/powershell/powershell) 7.2.0
 - [7-Zip](https://www.7-zip.org) 21.07
 
-## :package: Pacote
+## :package: Conteúdo do Pacote
 |Item|Arquivo|Status|
 |:---|:---|:---:|
 |Software|FlySafe.ps1|:white_check_mark:|
@@ -53,7 +58,9 @@ Get-Item FlySafe.ps1 | Unblock-File
 - [Licença de Software](https://github.com/2uj1m28ohz/flysafe/blob/main/LICENSE)
 - [Código de Conduta](https://github.com/2uj1m28ohz/flysafe/blob/main/CODE_OF_CONDUCT.md)
 
+> :warning: Todas as outras marcas mencionadas são de propriedade de seus respectivos proprietários.
+
 ## :clap: Atribuição
-Wallpaper por [Jacob Wall](https://unsplash.com/photos/J35x4qL0mS0)
+Wallpaper por [Adrian Infernus](https://unsplash.com/photos/GLf7bAwCdYg)
 
 [^1]:[EVE Online](https://www.eveonline.com)
