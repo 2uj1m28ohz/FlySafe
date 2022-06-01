@@ -5,7 +5,7 @@ FlySafe é um terminal app escrito em shell script e desenvolvido para executar 
 
 > :warning: O desenvolvimento de FlySafe foi encerrado em 30/04/2022.
 
-> :warning: O suporte à FlySafe será encerrado em 30/05/2022.
+> :warning: O suporte à FlySafe foi encerrado em 30/05/2022.
 
 > :school_satchel: Execute o Assistente de Migração para manter o suporte.
 
